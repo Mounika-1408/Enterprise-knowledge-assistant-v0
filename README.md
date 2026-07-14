@@ -106,4 +106,4 @@ python main.py
 
 **Mounika Gopidinni**
 
-Applied AI Engineer
+ Aspiring Applied AI Engineer
